@@ -27,4 +27,4 @@ Bu proje, belirli bir hisse senedinin geçmiş yıllardaki asgeri ücretlerin %2
 
    ```bash
    git clone https://github.com/Yusuf-Osmanoglu/BorsaHesapplama.git
-   cd BorsaHesapplama
+   cd BorsaHesaplama
