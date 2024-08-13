@@ -11,7 +11,7 @@ Bu proje, belirli bir hisse senedinin geçmiş yıllardaki asgeri ücretlerin %2
   - 2023: 2280 TL
   - 2024: 3560 TL (şu anki tarihine kadar)
 - **Aylık Kâr Hesaplama:** Her ayın 5'inde yapılan yatırım üzerinden kâr hesaplanır.
-- **Veri Çekme:** Hisse fiyatları ve diğer veriler, [BES Analiz](https://www.besanaliz.com) sitesinden otomatik olarak çekilir.
+- **Veri Çekme:** Hisse fiyatları ve diğer veriler, sitesinden otomatik olarak çekilir.
 - **Sonuç Görüntüleme:** Kullanıcıya toplam yatırım miktarı ve nihai kâr gösterilir.
 
 ## Gereksinimler
